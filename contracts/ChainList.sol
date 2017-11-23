@@ -1,4 +1,4 @@
-pragma solidity ^0.4.11;
+pragma solidity ^0.4.2;
 
 import "./Owned.sol";
 
@@ -115,7 +115,7 @@ contract ChainList is Owned {
   }
 
   // kill the smart contract
-  function kill() onlyOwner {
+  function kill() onlyOwner public {
     selfdestruct(owner);
   }
 }
