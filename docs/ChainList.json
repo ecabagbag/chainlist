@@ -4002,17 +4002,17 @@
     "version": "0.4.18+commit.9cf6e910.Emscripten.clang"
   },
   "networks": {
-    "1511419825713": {
+    "4": {
       "events": {},
       "links": {},
-      "address": "0x0c61eb3a6bbc1b0ab8fca5c9263da78379c29dc6"
+      "address": "0x655d63b1b5e5dcab8ff7f92d69a359d526ad2ae3"
     },
-    "1511420877342": {
+    "1511662063151": {
       "events": {},
       "links": {},
-      "address": "0xf22f92cd24058db98ddc359af0f203dbbce8a5d1"
+      "address": "0xe7194e2016d5454d5791d94d8a6aff6c1ead6457"
     }
   },
   "schemaVersion": "1.0.1",
-  "updatedAt": "2017-11-23T07:08:18.246Z"
+  "updatedAt": "2017-11-26T02:16:47.263Z"
 }
